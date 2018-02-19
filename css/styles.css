@@ -4,9 +4,31 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Dosis', sans-serif;
-
 }
 
 nav {
 	width: 100%;
+	padding-left: 6%;
+	padding-right: 6%;
+/*	background-image: url("../images/banner.png");
+*/}
+
+.section-header {
+	background-image: url("../images/header_back.png");
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+
+.content-container {
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+#intro-image {
+	width: 100%;
+}
+
+.col-md-12 {
+	padding: 0;
 }
