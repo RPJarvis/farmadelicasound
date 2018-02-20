@@ -10,6 +10,8 @@ nav {
 	width: 100%;
 	padding-left: 6%;
 	padding-right: 6%;
+	font-size: 1.75em;
+	background-color: white !important;
 /*	background-image: url("../images/banner.png");
 */}
 
@@ -21,8 +23,8 @@ nav {
 
 
 .content-container {
-	padding-right: 10%;
-	padding-left: 10%;
+	padding-right: 11%;
+	padding-left: 11%;
 }
 
 #intro-image {
@@ -31,4 +33,27 @@ nav {
 
 .col-md-12 {
 	padding: 0;
+}
+
+#nav-logo{
+	max-height: 100px;
+	width: auto;
+}
+
+.about-sub {
+	padding-left: 11%;
+	padding-right: 11%;
+}
+
+.testimonials {
+	margin-top: 8px;
+	font-style: italic;
+}
+
+.row {
+	padding-bottom: 18px;
+}
+
+#main>.row {
+	padding-bottom: 0;
 }
